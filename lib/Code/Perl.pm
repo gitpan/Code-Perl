@@ -4,6 +4,6 @@ use strict;
 
 package Code::Perl;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
