@@ -1,4 +1,4 @@
-# $Header: /home/fergal/my/cvs/Code-Perl/lib/Code/Perl/Expr.pm,v 1.9 2003/06/17 18:51:49 fergal Exp $
+# $Header: /home/fergal/my/cvs/Code-Perl/lib/Code/Perl/Expr.pm,v 1.10 2003/06/17 21:51:25 fergal Exp $
 
 use strict;
 
@@ -52,8 +52,8 @@ module.
 
 =head1 EXPRESSION CLASSES
 
-C<Code::Perl::Expr> has been removed from the front of th class names, so
-C<SubName> is really C<Code::Perl::Expr::SubName>.
+C<Code::Perl::Expr> has been removed from the front of the class names, so
+for example C<SubName> is really C<Code::Perl::Expr::SubName>.
 
 =cut
 
